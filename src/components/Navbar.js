@@ -22,6 +22,9 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
+          <a href="https://blog.milos.live" className="mr-5 hover:text-white">
+            Blog
+          </a>
         </nav>
         <a
           href="#contact"
