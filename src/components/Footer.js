@@ -1,4 +1,5 @@
 import React from "react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
 Box,
 Container,
@@ -14,10 +15,10 @@ return (
 	<Container>
 		<Row>
 		<FooterLink href="https://www.linkedin.com/in/milos-milenkovic-769a27157/">
-		<i class="fab fa-linkedin-in"></i>
+		<FontAwesomeIcon icon="fab fa-linkedin-in" />
 			</FooterLink>
 			<FooterLink href="https://github.com/milosmilenkovic007">
-			<i class="fab fa-github"></i>
+			<FontAwesomeIcon icon="fa-brands fa-github" />
 			</FooterLink>
 	
 		</Row>
