@@ -14,18 +14,10 @@ return (
 	<Container>
 		<Row>
 		<FooterLink href="https://www.linkedin.com/in/milos-milenkovic-769a27157/">
-			<i className="fab fa-linkedin">
-				<span style={{ marginLeft: "10px" }}>
-				
-				</span>
-			</i>
+		<i class="fab fa-linkedin-in"></i>
 			</FooterLink>
 			<FooterLink href="https://github.com/milosmilenkovic007">
-			<i className="fab fa-github">
-				<span style={{ marginLeft: "10px" }}>
-				
-				</span>
-			</i>
+			<i class="fab fa-github"></i>
 			</FooterLink>
 	
 		</Row>
