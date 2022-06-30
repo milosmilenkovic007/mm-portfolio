@@ -56,7 +56,7 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a className="text-indigo-400 leading-relaxed">
-                milos@milos.live
+               <br></br> milos@milos.live
               </a>
              
             </div>
